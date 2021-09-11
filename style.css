@@ -1,0 +1,19 @@
+h1
+{
+  color:orange;
+}
+body{
+background: rgb(161,255,169);
+background: linear-gradient(90deg, rgba(161,255,169,1) 28%, rgba(102,252,255,1) 80%);
+background-image: linear-gradient(to right, 72,205,22,1 , 0,250,255,1);
+text-align:center;
+{
+  text-align:center;
+}
+h2{
+  color:red;
+}
+h3
+{
+  color:blue;
+}
